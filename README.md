@@ -2,7 +2,7 @@
 
 ## Description:
 Audio Visualizer "dashboard" that reads input from the default microphone and draws a sound wave that reacts to audio, as well as, floating nodes. This dashboard also displays the time as well as the current weather conditions.
-![alt text](https://github.com/NJStew/audio-visualizer/example/example.gif "Example")
+![GIF cannot be displayed](https://github.com/NJStew/audio-visualizer/tree/main/example/example.gif "Example")
 
 ## Road Map:
 - Update weather conditions every set amount of time
