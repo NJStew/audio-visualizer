@@ -3,7 +3,7 @@
 ![example](https://user-images.githubusercontent.com/57770413/137005535-796c98a0-4e23-4d94-931e-2a92614e0a82.gif)
 
 ## Description:
-Audio Visualizer "dashboard" that reads input from the default microphone and draws a sound wave that reacts to audio, as well as, floating nodes. This dashboard also displays the time as well as the current weather conditions.
+Audio Visualizer "dashboard" that reads input from the default microphone and draws a sound wave that reacts to audio, as well as floating nodes. This dashboard also displays the time and the current weather conditions.
 
 ## Road Map:
 - Update weather conditions every set amount of time
